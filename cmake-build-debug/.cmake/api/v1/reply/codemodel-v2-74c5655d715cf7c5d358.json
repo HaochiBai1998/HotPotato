@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "HotPotato",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Player1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Player1-Debug-68195640d1bc8c9b28d0.json",
+					"name" : "Player1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Player2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Player2-Debug-2a54c20ee80c767aa683.json",
+					"name" : "Player2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Player3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Player3-Debug-83c73b00f1a7d95adf47.json",
+					"name" : "Player3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RingMaster::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RingMaster-Debug-d82b32c672cdd5932ac6.json",
+					"name" : "RingMaster",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/bhc/CLionProjects/HotPotato/cmake-build-debug",
+		"source" : "/Users/bhc/CLionProjects/HotPotato"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

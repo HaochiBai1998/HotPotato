@@ -1,0 +1,6 @@
+/Users/bhc/CLionProjects/HotPotato/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/bhc/CLionProjects/HotPotato/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/bhc/CLionProjects/HotPotato/cmake-build-debug/CMakeFiles/Player3.dir
+/Users/bhc/CLionProjects/HotPotato/cmake-build-debug/CMakeFiles/Player2.dir
+/Users/bhc/CLionProjects/HotPotato/cmake-build-debug/CMakeFiles/Player1.dir
+/Users/bhc/CLionProjects/HotPotato/cmake-build-debug/CMakeFiles/RingMaster.dir
